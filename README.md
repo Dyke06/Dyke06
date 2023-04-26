@@ -1,11 +1,14 @@
 
 ### Olá eu sou o Igor Dantas 👋
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-dantas-167157265/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/login)
 [![Discord](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#sent?compose=new)
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyke06&show_icons=true&theme=merko)
+
+### Atualmente venho usando a linguagem JavaScript e Python para melhorar minha lógica de programação e Html e Css para replicar telas de sites.
 
 ### Tecnologias que tenho conhecimento.
 
